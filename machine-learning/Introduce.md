@@ -23,4 +23,23 @@ Predict a number from infinitely many possible outputs.
 ### Classification
 Predict categories from small number of possible outputs (limited sets). 
 
-Find the boundary line from data
+Find the boundary line from data.
+
+## Unsupervised learning
+Find something interesting in unlabeled data.
+
+### Clustering
+It places the unlabeled data into different clusters.
+
+Group similar data points together.
+
+Find the structure in the data.
+
+### Anomaly detection
+Find unusually data points.
+
+Fraud detection in financial system, unusual events, unusual transactions and so on.
+
+
+### Dimensionality reduction
+
