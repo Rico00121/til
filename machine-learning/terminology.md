@@ -16,6 +16,8 @@ $$
 > $m$ = number of training examples
 
 > Divide by $2m$ rather than $2$ just beacuse simplify our derivation later.
+
+Gradient descent: a algorithm that used to find the minimized cost function J automatically. The most important algorithm in ML, applied in most models.
 ## Notation
 $x$ = input variable, feature
 
