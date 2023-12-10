@@ -18,6 +18,12 @@ $$
 > Divide by $2m$ rather than $2$ just beacuse simplify our derivation later.
 
 Gradient descent: a algorithm that used to find the minimized cost function J automatically. The most important algorithm in ML, applied in most models.
+
+Batch gradient descent: "Batch" means each step of gradient descent uses all the training examples instead of subset of training data.
+
+Convex function: a bowl-shaped function and cannot have any local minima other than the single global minimum.
+
+![convex function](./images/convex-function.jpg)
 ## Notation
 $x$ = input variable, feature
 
